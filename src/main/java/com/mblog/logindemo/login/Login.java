@@ -26,7 +26,7 @@ import java.util.HashMap;
  */
 public class Login {
     public static final Logger logger = Logger.getLogger(Login.class);
-    public static SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+//    public static SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
     public static String userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36";
 
     public static void main(String[] args) {
@@ -38,7 +38,7 @@ public class Login {
         PreLogin preLogin = preLogin(preUrl, su);
         System.out.println(preLogin);
         String s = rsaPassword(pwd, preLogin.getNonce(), preLogin.getPubkey());
-        System.out.println(s);
+        logger.info(s);
         JSONObject cookieJson = LoginAcoount(preLogin, su, pwd);
     }
 
