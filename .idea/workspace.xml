@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b12dd8c8-0ae4-40d3-94f8-43d309e36f31" name="Default Changelist" comment="" />
+    <list default="true" id="b12dd8c8-0ae4-40d3-94f8-43d309e36f31" name="Default Changelist" comment="weibo.cn登陆">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/CnLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mbloglogin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/test/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/test/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/utils/HttpClientUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/utils/HttpClientUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/extractor/Extractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/login/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/pojo/PreLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/prop/RequestHeaderconfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/prop/SystemConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/utils/ChaoJiYing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/utils/FileUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/utils/HttpClientUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wenge/datagroup/AppTest.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +31,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="JetLei" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -30,8 +58,9 @@
   </component>
   <component name="ProjectId" id="1TTSpC4vhjz2HHrTbTGgrJty9e2" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mblogcrawlerservice" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -58,13 +87,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Login">
+  <component name="RunManager" selected="Application.CnLogin">
+    <configuration name="CnLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mblog.logindemo.login.CnLogin" />
+      <module name="mbloglogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mblog.logindemo.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wenge.datagroup.login.Login" />
       <module name="mbloglogin" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wenge.datagroup.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mblog.logindemo.test.Test" />
+      <module name="mbloglogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mblog.logindemo.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,8 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.CnLogin" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -109,11 +167,73 @@
       <workItem from="1574264919545" duration="10512000" />
       <workItem from="1574862437897" duration="3122000" />
       <workItem from="1575722586188" duration="1851000" />
+      <workItem from="1575815576987" duration="1988000" />
+      <workItem from="1576775969182" duration="859000" />
+      <workItem from="1576901422315" duration="448000" />
+      <workItem from="1576902367738" duration="560000" />
+      <workItem from="1577891679383" duration="281000" />
+      <workItem from="1577891982431" duration="1597000" />
+      <workItem from="1578212567884" duration="5556000" />
     </task>
+    <task id="LOCAL-00001" summary="a litle change">
+      <created>1575820288641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575820288641</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1575820768789</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575820768789</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1576901511017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576901511017</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1576902695248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576902695248</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <created>1576902762495</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576902762495</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a litle change" />
+    <MESSAGE value="test" />
+    <MESSAGE value="weibo.cn登陆" />
+    <option name="LAST_COMMIT_MESSAGE" value="weibo.cn登陆" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

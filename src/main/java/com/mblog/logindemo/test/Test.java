@@ -11,3 +11,7 @@ public class Test {
         }
     }
 }
+
+class A extends Thread{
+
+}

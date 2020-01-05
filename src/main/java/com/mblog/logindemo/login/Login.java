@@ -1,14 +1,14 @@
 package com.mblog.logindemo.login;
 
 import com.alibaba.fastjson.JSONObject;
-import com.mblog.logindemo.prop.RequestHeaderconfig;
 import com.mblog.logindemo.extractor.Extractor;
-import com.mblog.logindemo.pojo.PreLogin;
+import com.mblog.logindemo.prop.RequestHeaderconfig;
 import com.mblog.logindemo.utils.FileUtil;
 import com.mblog.logindemo.utils.HttpClientUtil;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import sun.misc.BASE64Encoder;
+import com.mblog.logindemo.pojo.PreLogin;
 import javax.script.Invocable;
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
@@ -16,7 +16,6 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.text.SimpleDateFormat;
 import java.util.HashMap;
 
 /**
