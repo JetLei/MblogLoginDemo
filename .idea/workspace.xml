@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b12dd8c8-0ae4-40d3-94f8-43d309e36f31" name="Default Changelist" comment="weibo.cn登陆">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/CnLogin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mbloglogin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/test/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/test/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/utils/HttpClientUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/utils/HttpClientUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/extractor/Extractor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/login/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/pojo/PreLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/prop/RequestHeaderconfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/prop/SystemConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/test/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/utils/ChaoJiYing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/utils/FileUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/wenge/datagroup/utils/HttpClientUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/wenge/datagroup/AppTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +155,7 @@
       <workItem from="1576902367738" duration="560000" />
       <workItem from="1577891679383" duration="281000" />
       <workItem from="1577891982431" duration="1597000" />
-      <workItem from="1578212567884" duration="5556000" />
+      <workItem from="1578212567884" duration="6056000" />
     </task>
     <task id="LOCAL-00001" summary="a litle change">
       <created>1575820288641</created>
@@ -210,7 +192,35 @@
       <option name="project" value="LOCAL" />
       <updated>1576902762495</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="weibo.cn登陆">
+      <created>1578239925117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578239925117</updated>
+    </task>
+    <task id="LOCAL-00007" summary="weibo.cn登陆">
+      <created>1578240037451</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578240037451</updated>
+    </task>
+    <task id="LOCAL-00008" summary="weibo.cn登陆">
+      <created>1578240313289</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578240313289</updated>
+    </task>
+    <task id="LOCAL-00009" summary="weibo.cn登陆">
+      <created>1578240392007</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578240392007</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
