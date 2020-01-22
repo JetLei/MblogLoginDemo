@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b12dd8c8-0ae4-40d3-94f8-43d309e36f31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b12dd8c8-0ae4-40d3-94f8-43d309e36f31" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +172,7 @@
       <workItem from="1578212567884" duration="9479000" />
       <workItem from="1579500041793" duration="6984000" />
       <workItem from="1579687008951" duration="1844000" />
-      <workItem from="1579702363208" duration="6826000" />
+      <workItem from="1579702363208" duration="7157000" />
     </task>
     <task id="LOCAL-00001" summary="a litle change">
       <created>1575820288641</created>
@@ -288,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579709337037</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="weibo.com与weibo.cn登录">
+      <created>1579709380465</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1579709380465</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
