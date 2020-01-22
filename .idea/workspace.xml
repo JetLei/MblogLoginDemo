@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b12dd8c8-0ae4-40d3-94f8-43d309e36f31" name="Default Changelist" comment="weibo.cn登陆">
+    <list default="true" id="b12dd8c8-0ae4-40d3-94f8-43d309e36f31" name="Default Changelist" comment="weibo.com登陆">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/test/LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.js" beforeDir="false" afterPath="$PROJECT_DIR$/a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/CnLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/ComLogin.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -40,13 +47,15 @@
   </component>
   <component name="ProjectId" id="1TTSpC4vhjz2HHrTbTGgrJty9e2" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mblogcrawlerservice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MblogCrawl_Thread" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -83,12 +92,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wenge.datagroup.login.Login" />
+    <configuration name="CnLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mblog.logindemo.login.CnLogin" />
       <module name="mbloglogin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wenge.datagroup.login.*" />
+          <option name="PATTERN" value="com.mblog.logindemo.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mblog.logindemo.test.LoginTest" />
+      <module name="mbloglogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mblog.logindemo.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,10 +147,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.CnLogin" />
+        <item itemvalue="Application.CnLoginJsoup" />
+        <item itemvalue="Application.LoginTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Login" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +177,10 @@
       <workItem from="1576902367738" duration="560000" />
       <workItem from="1577891679383" duration="281000" />
       <workItem from="1577891982431" duration="1597000" />
-      <workItem from="1578212567884" duration="6056000" />
+      <workItem from="1578212567884" duration="9479000" />
+      <workItem from="1579500041793" duration="6984000" />
+      <workItem from="1579687008951" duration="1844000" />
+      <workItem from="1579702363208" duration="6282000" />
     </task>
     <task id="LOCAL-00001" summary="a litle change">
       <created>1575820288641</created>
@@ -220,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578240392007</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="weibo.cn登陆">
+      <created>1578240423346</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578240423347</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,17 +275,7 @@
     <MESSAGE value="a litle change" />
     <MESSAGE value="test" />
     <MESSAGE value="weibo.cn登陆" />
-    <option name="LAST_COMMIT_MESSAGE" value="weibo.cn登陆" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/a.js</url>
-          <line>176</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="weibo.com登陆" />
+    <option name="LAST_COMMIT_MESSAGE" value="weibo.com登陆" />
   </component>
 </project>
