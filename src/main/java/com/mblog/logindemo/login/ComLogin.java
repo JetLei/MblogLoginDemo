@@ -23,8 +23,8 @@ import java.util.HashMap;
  * @Description: 微博登录
  * @Date: Create in 15:05 2019/11/11
  */
-public class Login {
-    public static final Logger logger = Logger.getLogger(Login.class);
+public class ComLogin {
+    public static final Logger logger = Logger.getLogger(ComLogin.class);
 //    public static SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
     public static String userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36";
 
