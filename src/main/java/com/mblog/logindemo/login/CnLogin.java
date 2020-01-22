@@ -12,8 +12,8 @@ public class CnLogin {
     static String loginUrl = "https://passport.weibo.cn/sso/login";
 
     public static void main(String[] args) throws IOException {
-        String userName = "13716772721";
-        String pwd = "284868LCqaz";
+        String userName = "username";
+        String pwd = "password";
         Connection con = Jsoup.connect(loginUrl);
         con.header("Accept", "*/*");
         con.header("Accept-Language", "zh-CN,zh;q=0.9");
