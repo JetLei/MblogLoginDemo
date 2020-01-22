@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b12dd8c8-0ae4-40d3-94f8-43d309e36f31" name="Default Changelist" comment="weibo.com登陆">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/test/LoginTest.java" afterDir="false" />
+    <list default="true" id="b12dd8c8-0ae4-40d3-94f8-43d309e36f31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.js" beforeDir="false" afterPath="$PROJECT_DIR$/a.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/CnLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mblog/logindemo/login/ComLogin.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +174,7 @@
       <workItem from="1578212567884" duration="9479000" />
       <workItem from="1579500041793" duration="6984000" />
       <workItem from="1579687008951" duration="1844000" />
-      <workItem from="1579702363208" duration="6282000" />
+      <workItem from="1579702363208" duration="6826000" />
     </task>
     <task id="LOCAL-00001" summary="a litle change">
       <created>1575820288641</created>
@@ -252,7 +246,49 @@
       <option name="project" value="LOCAL" />
       <updated>1578240423347</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="weibo.com登陆">
+      <created>1579708837866</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579708837866</updated>
+    </task>
+    <task id="LOCAL-00012" summary="weibo.cn登陆">
+      <created>1579708981427</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579708981427</updated>
+    </task>
+    <task id="LOCAL-00013" summary="weibo.com以及weibo.cn登录">
+      <created>1579709024166</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579709024166</updated>
+    </task>
+    <task id="LOCAL-00014" summary="weibo.cn登录">
+      <created>1579709183953</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579709183953</updated>
+    </task>
+    <task id="LOCAL-00015" summary="weibo.com登录">
+      <created>1579709265270</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579709265270</updated>
+    </task>
+    <task id="LOCAL-00016" summary="weibo.com与weibo.cn登录">
+      <created>1579709337037</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1579709337037</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,8 +310,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a litle change" />
     <MESSAGE value="test" />
-    <MESSAGE value="weibo.cn登陆" />
     <MESSAGE value="weibo.com登陆" />
-    <option name="LAST_COMMIT_MESSAGE" value="weibo.com登陆" />
+    <MESSAGE value="weibo.cn登陆" />
+    <MESSAGE value="weibo.com以及weibo.cn登录" />
+    <MESSAGE value="weibo.cn登录" />
+    <MESSAGE value="weibo.com登录" />
+    <MESSAGE value="weibo.com与weibo.cn登录" />
+    <option name="LAST_COMMIT_MESSAGE" value="weibo.com与weibo.cn登录" />
   </component>
 </project>
